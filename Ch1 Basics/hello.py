@@ -10,4 +10,4 @@ print(len(myName)) # Tells the length of the name given
 
 print('what is your age?')
 myAge = input()
-print('you will be'+ str(int(myAge) + 2) + 'in 2 years!')
+print('you will be '+ str(int(myAge) + 2) + ' in 2 years!')
